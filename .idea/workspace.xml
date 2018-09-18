@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c735ec84-fe69-4019-9bd1-f4de35186388" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/partials/footer.html" afterDir="false" />
-    </list>
+    <list default="true" id="c735ec84-fe69-4019-9bd1-f4de35186388" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +15,7 @@
     <session id="-1906929717">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="2" />
@@ -45,6 +43,8 @@
           <entry key="HTML" value="84" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -123,19 +123,6 @@
               <item name="bean-products" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bean-products" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bean-products" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bean-products" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bean-products" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -172,16 +159,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537201010953</updated>
       <workItem from="1537201012597" duration="1000" />
-      <workItem from="1537284870564" duration="909000" />
+      <workItem from="1537284870564" duration="1233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="910000" />
+    <option name="totallyTimeSpent" value="1234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="25" width="1251" height="739" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
